@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a3b7cbe-6faa-421a-8991-5d3a30384ffd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/DSMarathon.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DSMarathon.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day001_HW.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day001_HW.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617906639085</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="initial commit">
+      <created>1617978366869</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1617978366869</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -131,8 +137,8 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/../.." />
     </ignored-roots>
-    <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="Day001_HW" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day001_HW" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
