@@ -17,6 +17,8 @@ print(a)
 
 
 # Q1 [簡答題] 請問下列兩種將 Array 轉換成 List 的方式有何不同？
+# list(a) 只會把第一層的元素轉換成List, 多層的話只有第一層會轉
+# tolist() 才能達成多層的型態轉換
 print("list(a): ", list(a))
 # [array([0, 1, 2, 3, 4]), array([5, 6, 7, 8, 9]), array([10, 11, 12, 13, 14])]
 
@@ -61,7 +63,14 @@ print(c.data)
 
 # Q3 如何利用 list(...) 實現 a.tolist() 的效果？試著用程式實作。
 def tolist(iterable):
-    iterable.tolist()
+    if type(iterable) != np.ndarray:
+        return iterable
+    # newlist = []
+    # for obj in iterable:
+    #     newlist.append(obj)
+    # return list(newlist)
+    # 以上可替換如下：
+    return [tolist(obj) for obj in iterable]
 
 print(a.tolist())
 print(b.tolist())

@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a3b7cbe-6faa-421a-8991-5d3a30384ffd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Day001_HW.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day001_HW.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -118,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617978366869</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Day001_HW extended">
+      <created>1617980754562</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1617980754562</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -138,7 +144,8 @@
       <path value="$PROJECT_DIR$/../.." />
     </ignored-roots>
     <MESSAGE value="Day001_HW" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day001_HW" />
+    <MESSAGE value="Day001_HW extended" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day001_HW extended" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
